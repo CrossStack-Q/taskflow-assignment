@@ -2,7 +2,7 @@
 
 ## 1. Overview
 
-Taskflow is a backend service for managing users, projects, and tasks. It provides authentication, task management, and basic observability features.
+Taskflow is a backend service for managing users, projects, and tasks. It provides authentication, task management, and basic observability features .
 
 ### Tech Stack
 - Go (Golang)
