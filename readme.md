@@ -83,8 +83,6 @@ Response:
 
 ---
 
-## 7. What I'd Do With More Time
+## 7. All protected API's in backend readme file
 
-- Implement refresh tokens and better auth flow
-- Add rate limiting and middleware security
-- Improve observability (New Relic)
+
