@@ -26,7 +26,7 @@ Taskflow is a backend service for managing users, projects, and tasks. It provid
 Assuming only Docker is installed:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/CrossStack-Q/taskflow-assignment.git
 cd backend
 docker compose up --build
 ```
