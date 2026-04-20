@@ -28,7 +28,7 @@ Assuming only Docker is installed:
 ```bash
 git clone https://github.com/CrossStack-Q/taskflow-assignment.git
 cd backend
-docker compose up --build
+docker compose up
 ```
 
 Server will start at:
